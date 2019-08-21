@@ -1,4 +1,4 @@
-title : cognitive science
+
 
 ## Welcome to GitHub Pages
 
