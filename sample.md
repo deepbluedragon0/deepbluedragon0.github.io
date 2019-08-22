@@ -35,3 +35,6 @@ codeタグから「_config.yml」を選んで編集する際に、title: やdesc
 ここではmarkdownの説明はしないが、GitHubも基本は一緒の記法だが、オリジナルの記法もあるので以下のリンクで確かめておこう。
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+続くかも？
