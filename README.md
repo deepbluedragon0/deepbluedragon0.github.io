@@ -8,4 +8,4 @@
 ### 外部リンク
  [ツイッター](https://mobile.twitter.com/deepbluedragon)
  
- [蒼龍のタワゴト~認知科学とか哲学とか~](https://deepbluedragon.hatenadiary.com)
+ [蒼龍のタワゴト'~認知科学とか哲学とか~'](https://deepbluedragon.hatenadiary.com)
