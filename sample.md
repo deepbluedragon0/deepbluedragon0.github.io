@@ -25,9 +25,13 @@ GitHub Pagesは無料で(markdownの)サイトを作れる便利なサービス�
 これまたリンクした記事の第五節を見てください。レジストリ専用ページのsettingタブはいろんな大事なことができるところです。公開サイトのアドレスの確認だけでなく、サイトのデザイン変更やレジストリの削除などもここから行なえます。
 
 settingタグのGitHub Pagesの項目に公開サイトのアドレスが表示されるが、その下の方のTheme chooserにある「choose the theme」ボタンを押すと、デザイン変更画面になり上からテーマを選んで右のボタンで決定すれば良い。ここまでは他の記事でも説明されているのが、困ったことにテーマに表示される文字の変え方は日本語ではどこにも書いてなかった。自分は以下の英語の記事を参考にした。
+
 [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
-codeタグから~~_config.yml~~を選んで編集する際に、title: やdescription: の後に表示させたい文字を入れた行を加えてから緑のcommitボタンを押せば、デザインに反映されます。
+
+codeタグから「_config.yml」を選んで編集する際に、title: やdescription: の後に表示させたい文字を入れた行を加えてから緑のcommitボタンを押せば、デザインに反映されます。
 ### 表紙以外のページを作る
 これも何故か情報がないが、「Create new file」ボタンからそのまま拡張子付きファイルを作成すれば新しいページが簡単に作れます。その際、その新しいページは表紙のURLの後ろに/ファイル名をつけたURLに表示されるので、表紙のページからリンクを貼ろう。
+
 ここではmarkdownの説明はしないが、GitHubも基本は一緒の記法だが、オリジナルの記法もあるので以下のリンクで確かめておこう。
+
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
