@@ -2,7 +2,7 @@
 
 ## 目次
 
-[ブラウザだけからGitHub Pagesを使おう！](https://deepbluedragon0.github.io/sample)
+[ブラウザだけからGitHub Pagesを使おう！](https://deepbluedragon0.github.io/github-browser)
 
 
 ### 外部リンク
