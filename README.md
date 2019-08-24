@@ -3,7 +3,7 @@
 ## 目次
 
 [ブラウザだけからGitHub Pagesを使おう！](https://deepbluedragon0.github.io/github-browser)
-
+[最近よく聞くお薦めのラジオ番組](https://deepbluedragon0.github.io/myradiolist)
 
 ### 外部リンク
  [ツイッター](https://mobile.twitter.com/deepbluedragon)
