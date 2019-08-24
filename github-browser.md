@@ -68,6 +68,7 @@ codeタグから`_config.yml`を選んで編集する際に、`title: `や`descr
 これも何故か情報がないが、「Create new file」ボタンからそのまま拡張子付きファイルを作成すれば新しいページが簡単に作れます。その際、その新しいページは表紙のURLの後ろに/ファイル名をつけたURLに表示されるので、表紙のページからリンクを貼ろう。
 
 ここではmarkdownの説明はしないが、GitHubも基本は一緒の記法だが、オリジナルの記法もあるので以下のリンクで確かめておこう。
+
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
