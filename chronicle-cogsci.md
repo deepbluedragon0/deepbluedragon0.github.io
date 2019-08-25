@@ -1,4 +1,4 @@
-The chronicle of cognit science(new edition)
+## The chronicle of cognitive science
  
  year | title | name 
 -----|-----|-----
