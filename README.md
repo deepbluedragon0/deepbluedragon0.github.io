@@ -8,6 +8,8 @@
 
 [認知科学年表(英語)](https://deepbluedragon0.github.io/chronicle-cogsci)
 
+[はてなハイクのcsvをhtmlにそのまま変換(読みづらいです)](https://deepbluedragon0.github.io/haiku_deepbluedragon.html)
+
 ### 外部リンク
  [ツイッター](https://mobile.twitter.com/deepbluedragon)
  
